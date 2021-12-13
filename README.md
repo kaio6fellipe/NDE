@@ -1,4 +1,4 @@
-# **NDE** (Network Defender Essencials)
+# Network Defender Essencials
 Every line in this repository were collected from the official EC Council course which covers all the essential contents that anticipate the CND test. 
 
 I will particularly be using these contents as a way to review the knowledge I already have, filling in some gaps that I ended up skipping during my professional development.
