@@ -4,14 +4,15 @@ Every line in this repository were collected from the official EC Council course
 I will particularly be using these contents as a way to review the knowledge I already have, filling in some gaps that I ended up skipping during my professional development.
 
 The content was separated by the EC Council into 12 different modules:
-- Network Security Fundamentals
-- Identification, Authentication, and Authorization
-- Network Security Controls: Administrative Controls
-- Network Security Controls: Physical Controls
-- Network Security Controls: Technical Controls
-- Virtualization and Cloud Computing
-- Mobile Device Security
-- IoT Device Security
-- Cryptography and the Public Key Infrastructure
-- Data Security
-- Network Traffic Monitoring
+1. Network Security Fundamentals
+2. Identification, Authentication, and Authorization
+3. Network Security Controls: Administrative Controls
+4. Network Security Controls: Physical Controls
+5. Network Security Controls: Technical Controls
+6. Virtualization and Cloud Computing
+7. Wireless Network Security
+8. Mobile Device Security
+9. IoT Device Security
+10. Cryptography and the Public Key Infrastructure
+11. Data Security
+12. Network Traffic Monitoring
