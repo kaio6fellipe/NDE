@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### Network Defense Essentials
 
-You can use the [editor on GitHub](https://github.com/kaio6fellipe/NDE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Every line in this repository were collected from the official EC Council course which covers all the essential contents that anticipate the NDE test. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will particularly be using these contents as a way to review the knowledge I already have, filling in some gaps that I ended up skipping during my professional development.
 
-### Markdown
+The content was separated by the EC Council into 12 different modules:
+1. Network Security Fundamentals
+2. Identification, Authentication, and Authorization
+3. Network Security Controls: Administrative Controls
+4. Network Security Controls: Physical Controls
+5. Network Security Controls: Technical Controls
+6. Virtualization and Cloud Computing
+7. Wireless Network Security
+8. Mobile Device Security
+9. IoT Device Security
+10. Cryptography and the Public Key Infrastructure
+11. Data Security
+12. Network Traffic Monitoring
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaio6fellipe/NDE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[back](https://kaio6fellipe.github.io/)
