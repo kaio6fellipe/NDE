@@ -1,0 +1,39 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="995px" height="1075px" viewBox="-0.5 -0.5 995 1075" content="&lt;mxfile&gt;&lt;diagram id=&quot;R9ELVfT3wfuqlYT6cRSg&quot; name=&quot;Página-1&quot;&gt;vVZNc5swEP01HDsjoP462o7THJKZTpOZnhW0AU2ERIVs7Pz67oJkYMDTtIf6kEhvPyTt2312lO7L8zfLq+LJCFBRwsQ5Su+iJEmWC4b/CLl0SJwulx2SWyk81gPP8gM86APzoxRQjxydMcrJagxmRmvI3Ajj1ppm7PZm1PjUiucwAZ4zrqboTylc0aHrZNXjDyDzIpwcLzedpeTB2b+kLrgwzQBKD1G6t8a4blWe96CoeqEuXdz9Dev1Yha0+0xA0gWcuDr6t/l7uUt4bG7NsYrSXe2seYe9Uca2hnS3OKwXKVnewWX0Lkab8CLa5IrXtV/LEsuyrauOkBgRbR75K/ZGZ3+TSg2ys/ZzPTfUmc7zdwbr4DzHN38Nd2fTesTXKmN/ginB2Qu6+ERfVmsf43vzq2eu6XnebHyRiiHHbBUazDdXfk3e1x8XnoJ5OtabCR/bLAOsYcL2RmMlVD0hqG5kqbiGtlbcOj8vCRWvMFZ+YCBXvuYZbaQG+3KpyMtZoEDkWAsQgQp08lniNaX1JzxKOmWOrb4XJmxRsjleb7I4ZCuZZ+v/sLGJ/8gGrr5bqTNZKRSkBFOyF7Cl1PjgXAaIa4F/WyGc0odnom4RCVzJXCOY4fPB0oBAcxCoPMF5hUVb/jqSOOzgarhCUbod2LWT7vIDFHfS6MOMN10tbNrG2ZI03kinjb4VC1r8Y2QNeUlUDwNJ4wcu2dGesC9HHtHqDlfUufeo3FLnvrcJeTKnHqDWu+elVDTMD6BO4GTGZ7t0XsMoSVNIB88Vz4iCBr/RZgYkt1xIfMmdtKg/WG80EERjNxW2NWdsOhhv7WdOaBlbrNoIRXK5M1aADea2uv5Cvk3iT01WJzU3hfAri0c6uGCLiRDGGzY3euyvJw+3/Vdeaxv8ckgPvwE=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="1" y="1" width="992" height="1071" fill="#000000" stroke="#b5e853" stroke-width="3" pointer-events="all"/>
+        <path d="M 1 21 L 1 1 L 993 1 L 993 21" fill="#b5e853" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1 21 L 1 1072 L 993 1072 L 993 21" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="18px">
+            <text x="496.5" y="18.5">
+                Access Controls
+            </text>
+        </g>
+        <ellipse cx="497" cy="556" rx="95" ry="50" fill="#000000" stroke="#000000" stroke-width="3" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <ellipse cx="497" cy="556" rx="95" ry="50" fill="#008a00" stroke="#005700" stroke-width="3" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 556px; margin-left: 403px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #ffffff; line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                Access Control Principles, Terminologies, and Models
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="497" y="561" fill="#ffffff" font-family="Helvetica" font-size="18px" text-anchor="middle" font-weight="bold">
+                    Access Control Princi...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
