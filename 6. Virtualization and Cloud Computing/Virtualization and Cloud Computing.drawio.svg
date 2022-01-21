@@ -1,0 +1,31 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="195px" height="106px" viewBox="-0.5 -0.5 195 106" content="&lt;mxfile&gt;&lt;diagram id=&quot;rzYMMQ8fcy9CIpRGCtH0&quot; name=&quot;Página-1&quot;&gt;nZRNb9swDIZ/jY8FbAuL3WPjJOull6bAzprF2EJlKVMYO9mvH2XTX+gCDMsl5kNSEim+ikTR3L57ea7fnAITpbG6RWIXpalIc0F/gdwH8pRl+UAqr9XAkhkc9W9gGDO9agWXVSA6Z1Cf17B01kKJKya9d9067OTMetezrOALOJbSfKU/tMJ6oHmazfwVdFWPOyeb58HTyDGYK7nUUrlugcQ+EoV3Doev5laACd0b+zLkHR54p4N5sPgvCemQ0Epz5do+amiAD4f3sWLKouaSsZVGV5ZgSTuAJ2Ch2ytqzxicbaN08+saKtjC5JhQJF4Wfosa7+9gJGpn93+JTovZuKD0+BLu78Fy1tlHuWDVf2ZeoGpCN5eJYRAXIeXVt6DWEVG2oy/0AAcaL20r6k3C5M21Mzg5iwfZaBPU8AqmBdSl7Mv17nMaMBHIJ2AZjDgY4+iERbpaIxzPsgxX0JHseGHWTpKTXXmpNFWy055EQf0mR0DShGBtTOGM8/19izjOZRzzIgt+6n/T4VYZ37I+w8ifYLbOK/Cju+8uH4jHhCe1BY9wezi8ySQJekzANYD+TiGc8ESaYx3xS5JsBINu1mXyzKxeajJmKPktqKblZ7nQBytmNGdl9r7FAyf2fwA=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <ellipse cx="96" cy="51" rx="95" ry="50" fill="#000000" stroke="#000000" stroke-width="3" pointer-events="all" transform="translate(2,3)" opacity="0.25"/>
+        <ellipse cx="96" cy="51" rx="95" ry="50" fill="#008a00" stroke="#005700" stroke-width="3" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 51px; margin-left: 2px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Theme
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="96" y="56" fill="#ffffff" font-family="Helvetica" font-size="18px" text-anchor="middle" font-weight="bold">
+                    Theme
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
